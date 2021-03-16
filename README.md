@@ -1,5 +1,5 @@
 ## Determinant Calculator
-*calculate_determinant(list)
+*calculate_determinant(list)*
 Calculates the determinant of any N * N Matrix.
 
 ## Usage
